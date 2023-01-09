@@ -1,6 +1,6 @@
 ### Hi there, I'm Brieuc Dubois 👋
 
-#### Glaed to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+#### Glaed to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=BhasherBEL)
 
 I am a bachelor student in computer science at [University of Louvain](https://github.com/uclouvain) in Belgium. I love programming and learning new things mainly to use them to improve my life and that of my mates.
 
