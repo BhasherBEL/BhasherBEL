@@ -7,7 +7,7 @@ I am a bachelor student in computer science at [University of Louvain](https://g
 #### Some personal stuffs:
 
 - 🔭 I’m currently working on many pretty cool things as I love to work on many projects at the time.
-- 🌱 I’m currently learning a ton of new things such as [competitive programming](https://github.com/BhasherBEL/competitive-programming) and [devOps](https://github.com/BhasherBEL/homelab).
+- 🌱 I’m currently learning a ton of new things such as [flutter](https://github.com/BhasherBEL/MobileInpact), [competitive programming](https://github.com/BhasherBEL/competitive-programming) and [devOps](https://github.com/BhasherBEL/homelab).
 - 👯 I’m looking to collaborate on stuffs I use, to improve them for myself and for any other user, by example [Finamp](https://github.com/jmshrv/finamp) and [openScale](https://github.com/oliexdev/openScale).
 - 💬 Ask me anything, I will try to answer and if I don't have enough knowledge, I will learn it.
 - 📫 The best way to reach me is by pull request one of my repos 😄.
