@@ -20,3 +20,6 @@ I am a bachelor student in computer science at [University of Louvain](https://g
 <a href="#">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhasherBEL&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=flusterW">
 </a>
+<a href="#">
+  <img alig="center", height="180em" src="https://streak-stats.demolab.com/?user=bhasherbel&theme=default&hide_border=true&starting_year=2018" />
+</a>
