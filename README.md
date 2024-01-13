@@ -18,7 +18,7 @@ I am a master student in computer science at [University of Louvain](https://git
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=BhasherBEL&show_icons=true&hide_border=true&&count_private=false" />
 </a>
 <a href="#">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhasherBEL&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=flusterW">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhasherBEL&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=flusterW&hide=jupyter%20notebook">
 </a>
 <a href="#">
 <img alig="center", height="180em" src="https://streak-stats.demolab.com/?user=bhasherbel&theme=default&hide_border=true&starting_year=2018" />
