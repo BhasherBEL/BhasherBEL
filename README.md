@@ -1,8 +1,8 @@
 ### Hi there, I'm Brieuc Dubois 👋
 
-#### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=BhasherBEL)
+#### Glad to see you here!
 
-I am a bachelor student in computer science at [University of Louvain](https://github.com/uclouvain) in Belgium. I love programming and learning new things mainly to use them to improve my life and that of my mates.
+I am a master student in computer science at [University of Louvain](https://github.com/uclouvain) in Belgium. I love programming and learning new things mainly to use them to improve my life and that of my mates.
 
 #### Some personal stuffs:
 
@@ -21,5 +21,5 @@ I am a bachelor student in computer science at [University of Louvain](https://g
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhasherBEL&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=flusterW">
 </a>
 <a href="#">
-  <img alig="center", height="180em" src="https://streak-stats.demolab.com/?user=bhasherbel&theme=default&hide_border=true&starting_year=2018" />
+<img alig="center", height="180em" src="https://streak-stats.demolab.com/?user=bhasherbel&theme=default&hide_border=true&starting_year=2018" />
 </a>
